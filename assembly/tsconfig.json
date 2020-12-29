@@ -1,0 +1,10 @@
+{
+  "extends": "assemblyscript/std/assembly.json",
+  "compilerOptions": {
+    "types": [ "@teraflop/api" ],
+  },
+  "include": [
+    "../node_modules/@teraflop/api",
+    "./**/*.ts"
+  ]
+}
