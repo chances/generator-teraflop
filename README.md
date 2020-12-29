@@ -1,4 +1,4 @@
-# generator-teraflop
+# Teraflop Scripting API Plugin Generator
 
 Generate a plugin for a game that uses the [Teraflop engine](https://github.com/chances/teraflop-d#readme).
 
