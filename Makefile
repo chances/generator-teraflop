@@ -5,3 +5,7 @@ all: generated-plugin
 
 generated-plugin: $(SOURCES)
 	copier . generated-plugin
+
+clean:
+	rm -rf generated-plugin
+.PHONY: clean
